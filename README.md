@@ -1,6 +1,7 @@
 # password_checker
 ---A Python3 script---
 Required installed Python packages: requests -- https://pypi.org/project/requests/
+
 This was a scripting excercise for me, which I did during a Udemy course.
 I welcome any feedback and pull requests. :) 
 
